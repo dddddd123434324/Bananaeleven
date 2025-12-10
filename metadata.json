@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Gemini Image Translator (KR)",
+  "description": "Batch translate Japanese game assets to Korean using Gemini 3 Pro Vision.",
+  "requestFramePermissions": []
+}
